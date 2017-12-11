@@ -1,0 +1,115 @@
+.navbar-home{
+	
+	background-color: #87CEFA;
+	
+}
+
+.img-responsive {
+	
+    height: auto;
+    width: auto;
+    max-height: 200px;
+    max-width: 1000px;
+}
+
+body{
+	background-color: #ffffff;
+}
+
+.home-content{
+	color: black;
+}
+
+
+
+.img{
+	
+	
+	height: auto;
+    width: auto;
+	max-height: 35px;
+    max-width: 125px;
+  	
+}
+
+.homepage-content{
+	
+	float: left;
+	width: 500px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+}
+
+.homepage-content2{
+	
+	float: right;
+	width: 500px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+}
+
+.jumbotron{
+	background-color: #87CEFA;
+	text-align: center;
+}
+
+
+.Game1{
+	height: 25%;
+	width: 50%;
+	float: left;
+}
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.Game1{
+	float: left;
+	width: 600px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+}
+
+
+
+.Portfolio-1{
+	float: right;
+	width: 600px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+}
+
+.contact{
+	float: left;
+	width: 600px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+	
+}
+
+.Portfolio-2{
+	float: right;
+	width: 600px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+}
+
+.About{
+	float: right;
+	width: 600px;
+    border: 10px solid;
+	border-color: #87CEFA;
+    padding: 10px;
+    margin: 10px
+}
